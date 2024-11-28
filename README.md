@@ -1,4 +1,4 @@
-## Hi there 👋
+I'm still working on filling this space with some awesome projects to show off. Please stand by.
 
 <!--
 **Sanal/Sanal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
